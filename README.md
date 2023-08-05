@@ -1,19 +1,19 @@
-Student Management System
+Student Management System <br>
 
-Table of Contents
-Introduction
-Features
-Technologies Used
-System Architecture
-Database Schema
-Installation
-Usage
-Contributing
-License
-🚀 Introduction
-The Student Management System is a powerful and user-friendly web application designed to efficiently manage student-related information. It offers a seamless experience for users to access, update, and submit essential data, providing a convenient platform for students and administrators alike. The project aims to enhance the overall management experience and streamline student data in a modern and intuitive manner.
+Table of Contents <br>
+Introduction <br>
+Features <br>
+Technologies Used <br>
+System Architecture <br>
+Database Schema <br>
+Installation <br>
+Usage <br>
+Contributing <br>
+License <br>
+🚀 Introduction <br>
+The Student Management System is a powerful and user-friendly web application designed to efficiently manage student-related information. It offers a seamless experience for users to access, update, and submit essential data, providing a convenient platform for students and administrators alike. The project aims to enhance the overall management experience and streamline student data in a modern and intuitive manner. <br>
 
-✨ Features
+✨ Features <br>
 User Registration and Login: New users can quickly sign up and existing users can securely log in to their accounts. <br>
 
 Complete Information Submission: Students can provide detailed information such as college, course, department, guide name, project title, and project submission date. <br>
@@ -24,21 +24,21 @@ Feedback Submission: Students can submit valuable feedback on various aspects of
 
 Logout Functionality: Users can securely log out from their accounts after completing their tasks. <br>
 
-🛠️ Technologies Used
-PHP: For powerful server-side scripting and handling dynamic web pages.
-MySQL: As the efficient and reliable database management system.
-HTML: For building the structure and content of the web pages.
-CSS: To style and visually enhance the user interface.
-JavaScript: For interactive elements and client-side functionality.
-🏗️ System Architecture
-The Student Management System follows a client-server architecture. The frontend is carefully crafted using HTML, CSS, and JavaScript, providing a delightful user experience. On the backend, PHP handles server-side processing, user authentication, and seamless database operations. MySQL serves as the database management system to store and retrieve user data efficiently.
+🛠️ Technologies Used <br>
+PHP: For powerful server-side scripting and handling dynamic web pages. <br>
+MySQL: As the efficient and reliable database management system. <br>
+HTML: For building the structure and content of the web pages. <br>
+CSS: To style and visually enhance the user interface. <br>
+JavaScript: For interactive elements and client-side functionality. <br>
+🏗️ System Architecture<br>
+The Student Management System follows a client-server architecture. The frontend is carefully crafted using HTML, CSS, and JavaScript, providing a delightful user experience. On the backend, PHP handles server-side processing, user authentication, and seamless database operations. MySQL serves as the database management system to store and retrieve user data efficiently. <br>
 
 📚 <h1>Database Schema</h1>
-The system consists of three essential data tables:
+The system consists of three essential data tables: <br>
 
-tbl_signup: Used for user authentication data.
-tbl_traineeinfo: Stores user information details.
-tbl_fdbk: Stores user feedback data.
+tbl_signup: Used for user authentication data. <br>
+tbl_traineeinfo: Stores user information details. <br>
+tbl_fdbk: Stores user feedback data. <br>
 🛠️ <h1>Installation</h1>
 Clone the repository to your local machine.
 Set up a local web server (e.g., Apache/XAMPP) and MySQL database.
