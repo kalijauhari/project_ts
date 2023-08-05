@@ -14,15 +14,15 @@ License
 The Student Management System is a powerful and user-friendly web application designed to efficiently manage student-related information. It offers a seamless experience for users to access, update, and submit essential data, providing a convenient platform for students and administrators alike. The project aims to enhance the overall management experience and streamline student data in a modern and intuitive manner.
 
 ✨ Features
-User Registration and Login: New users can quickly sign up and existing users can securely log in to their accounts.
+User Registration and Login: New users can quickly sign up and existing users can securely log in to their accounts. <br>
 
-Complete Information Submission: Students can provide detailed information such as college, course, department, guide name, project title, and project submission date.
+Complete Information Submission: Students can provide detailed information such as college, course, department, guide name, project title, and project submission date. <br>
 
-Displaying User Information: The system presents user information in a visually appealing tabular format for easy access and reference.
+Displaying User Information: The system presents user information in a visually appealing tabular format for easy access and reference. <br>
 
-Feedback Submission: Students can submit valuable feedback on various aspects of the training and course content.
+Feedback Submission: Students can submit valuable feedback on various aspects of the training and course content. <br>
 
-Logout Functionality: Users can securely log out from their accounts after completing their tasks.
+Logout Functionality: Users can securely log out from their accounts after completing their tasks. <br>
 
 🛠️ Technologies Used
 PHP: For powerful server-side scripting and handling dynamic web pages.
