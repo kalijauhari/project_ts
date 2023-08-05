@@ -30,6 +30,7 @@ MySQL: As the efficient and reliable database management system. <br>
 HTML: For building the structure and content of the web pages. <br>
 CSS: To style and visually enhance the user interface. <br>
 JavaScript: For interactive elements and client-side functionality. <br>
+
 🏗️ System Architecture<br>
 The Student Management System follows a client-server architecture. The frontend is carefully crafted using HTML, CSS, and JavaScript, providing a delightful user experience. On the backend, PHP handles server-side processing, user authentication, and seamless database operations. MySQL serves as the database management system to store and retrieve user data efficiently. <br>
 
@@ -39,11 +40,13 @@ The system consists of three essential data tables: <br>
 tbl_signup: Used for user authentication data. <br>
 tbl_traineeinfo: Stores user information details. <br>
 tbl_fdbk: Stores user feedback data. <br>
+
 🛠️ <h1>Installation</h1>
 Clone the repository to your local machine.
 Set up a local web server (e.g., Apache/XAMPP) and MySQL database.
 Import the database schema from the included SQL file.
 Update the database connection details in the PHP files to match your local server configuration.
+
 🚀 h1>Usage</h1>
 Access the project homepage and choose the desired action (complete_info, display_info, or logout).
 Register or log in to access specific functionalities.
