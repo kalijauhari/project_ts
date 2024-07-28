@@ -54,7 +54,4 @@ Complete your information, view user details, and submit feedback as required.
 👥 Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request for review.
 
-<h2>📝 License</h2>
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code according to the terms of the license.<br>
-
 <br> Feel free to explore and contribute to the Student Management System! Let's empower students and administrators with an efficient and modern management solution. 🎉
